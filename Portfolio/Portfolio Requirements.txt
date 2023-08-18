@@ -1,0 +1,20 @@
+Portfolio v1.0
+
+Requirements
+
+1. Technology :- HTML, CSS, ANGULAR, BOOTSTRAP (NO MATERIAL)
+2. Content :- (By Self)
+=> Home:- 
+		a. Title Section requires 				:-  Title Content and Portfolio Image
+		b. Skill Set Section requires 			:-  Logos of My Technology
+		c. Introduction to urself requires		:-	Introduce your self
+		d. Technology on what you know			:- 	HTML, CSS, JS & ANGULAR
+		e. Why Choose Me & Experience Section	:- 	Your Expierence, Responsibilities, Different roles, Strength Point	
+		f. Projects								:- 	Image and Description
+		g. Statistics							:- 	Projects, Awards, Experience, Technology
+		h. footer								:- Contact Number, Social Media Handles, email
+3. Number of pages :- Home, About, Contact. (for version 1.0)
+4. Color Schemes :- White Black and Orange
+5. Fonts :- Open Sans Regular & (SemiBold, Montserrat)
+6. Website Structure :- (for reference) https://template-kit.rootlayers.com/portosia/?storefront=envato-elements#
+

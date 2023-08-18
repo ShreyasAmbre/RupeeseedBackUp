@@ -1,0 +1,20 @@
+Color Combinatino Notes
+
+Colors for Background, Primary Heading, Secondary Heading (Subheading), Paragraphy.
+
+
+1. White and Blue
+-> #F3F1FF (Background)
+-> #352B5A (Primary Heading)
+
+2. Blue, White & Gray
+-> #0D0C18 (Background)
+-> #FFFFFF (Heading)
+-> #B0BAD6 (Heading with little contrast) mainly used for words in heading which are not that important as MAIN HEADING WORDS
+-> #D2DDFE (Paragraphy)
+
+3. Blue & Yellow (Own Palette)
+-> #0D0C18 (Background)
+-> #FEBB1E (Heading or Subheading or paragraphy)
+
+4. 
